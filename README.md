@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Washinur Ashraf Evan</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SQA Learner)](https://git.io/typing-svg)
 <h3 align="center">A passionate person in Software Quality Assurance from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashevan98&label=Profile%20views&color=0e75b6&style=flat" alt="ashevan98" /> </p>

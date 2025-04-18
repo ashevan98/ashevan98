@@ -7,6 +7,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SQA+Learner)](https://git.io/typing-svg)
 
+<img align="right" alt="Coding" width="500" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 - 🌱 I’m currently learning **Manual & Automation Software Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashevan98?tab=repositories](https://github.com/ashevan98?tab=repositories)
